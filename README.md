@@ -1,16 +1,40 @@
-### Hi there 👋
-
-<!--
-**habelgfg/habelgfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá! Eu sou o Gustavo e este é o meu perfil de estudante! ⚔
+ 
+  <div align="center">
+    <img width="900" src="https://user-images.githubusercontent.com/103964329/167232672-9d78abf1-f905-43b9-93c2-254dc5cacaf2.gif">
+  </div>
+  <div align="center">
+    <a href="mailto:habelgfg@gmail.com"><img alt="Gus-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://discord.gg/mSvAewQsPh"><img alt="grupoestudos" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+     <a href="linkedin.com/in/gustavo-de-freitas-graciano-036b4a185"><img alt="gus-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
+  </div>
+  
+  ***
+  
+ #### - 📚 Graduando no curso de Psicologia, atualmente na 9ª fase da faculdade, busco unir a área da **tecnologia** e a área da **saúde mental** por meio do desenvolvimento de softwares! 
+ #### - 🐈 Meu GitHub propõe mostrar minha trajetória de estudos e evolução dentro da área da tecnologia. A cada _commit_ estou um passo mais perto do objetivo!
+ #### - 🎮 Completamente fissurado por games e RPG de mesa, busco também trazer diversão aos meus estudos!
+  
+  ***
+  
+  ### O que estou estudando no momento:
+  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Gus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Gus-Py" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Gus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">   
+    <img align="center" alt="Gus-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  </div>
+  
+  ***
+  
+  <div>
+    <a href="https://github.com/habelgfg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habelgfg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habelgfg&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  
+  ***
+  
+  ![Snake animation](https://github.com/rafaballerini/habelgfg/blob/output/github-contribution-grid-snake.svg)
