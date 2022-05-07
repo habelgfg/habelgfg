@@ -37,4 +37,4 @@
   
   ***
   
-  ![Snake animation](https://github.com/habelgfg/habelgfg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/habelgfg/blob/output/github-contribution-grid-snake.svg)
