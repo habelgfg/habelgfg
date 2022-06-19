@@ -13,7 +13,7 @@
   
  #### - 📚 Graduando no curso de Psicologia, atualmente na 9ª fase da faculdade, busco unir a área da **tecnologia** e a área da **saúde mental** por meio do desenvolvimento de softwares! 
  #### - 🐈 Meu GitHub propõe mostrar minha trajetória de estudos e evolução dentro da área da tecnologia. A cada _commit_ estou um passo mais perto do objetivo!
- #### - 🎮 Também desenho em pixel art e estudo C# para criação de jogos no Unity!
+ #### - 🎮 Também tenho o hobby de desenhar em pixel art e estudar C# para criação de jogos no Unity!
   
   ***
   
