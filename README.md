@@ -1,7 +1,7 @@
 # Olá! Eu sou o Gustavo e este é o meu perfil de estudante! ⚔
  
   <div align="center">
-    <img width="900" src="https://user-images.githubusercontent.com/103964329/167232672-9d78abf1-f905-43b9-93c2-254dc5cacaf2.gif">
+    <img width="800" src="https://user-images.githubusercontent.com/103964329/167232672-9d78abf1-f905-43b9-93c2-254dc5cacaf2.gif">
   </div>
   <div align="center">
     <a href="https://discord.gg/mSvAewQsPh"><img alt="grupoestudos" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
